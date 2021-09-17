@@ -5,7 +5,8 @@ public class Demo{
         //              and find the Longest Substring that is palindrome
         String one = "pwwkew";
         String two = "cbbd";
-
+        System.out.println(Feature1.lengthOfLongestSubstring(one));
+        System.out.println(Feature2.longestPalindrome(two));
     }
 
 }
