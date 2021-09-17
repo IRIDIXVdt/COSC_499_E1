@@ -7,7 +7,7 @@ public class Demo{
         String two = "cbbd";
         System.out.println(Feature1.lengthOfLongestSubstring(one));
         System.out.println(Feature2.longestPalindrome(two));
-
+        //sample test comment
     }
 
 }
